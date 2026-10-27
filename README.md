@@ -4,5 +4,7 @@ Hi I am learning to implement a full stack mobile application from scratch with 
 <br>
 This is quite a large-scale personal project since it is a solo work and much time is needed to learn and code this app. Thank you for the patience and do check back here occasionally to see my progress with this application. 
 <br>
+https://docs.google.com/document/d/1Xe1vK1ZwyvjZDRDT8jxep-p4V6pF4afL5lgJWOGcedI/edit?usp=sharing
+<br>
 <br>
 Feedbacks and tips are greatly welcome. Thank you!
