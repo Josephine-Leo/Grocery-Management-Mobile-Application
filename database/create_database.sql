@@ -1,0 +1,1 @@
+CREATE DATABASE grocery_management_app;
